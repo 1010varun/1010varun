@@ -17,7 +17,6 @@
  - 👯 I’m looking to collaborate on exciting Projects and Hackathons
  - 💬 Ask me about DSA
  - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/varun-agarwal-b91518226/)
- - 😄 Pronouns: He/Him
  - ⚡ Fun fact: Tabs >>>>> Spaces
  
  <hr>
