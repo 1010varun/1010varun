@@ -12,7 +12,7 @@
  
  
  ### Some more about me
- - 🔭 I’m currently working on Web Development using Node.js and Express 
+ - 🔭 I’m currently working on Web Development using MERN stack and Django.
  - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
  - 👯 I’m looking to collaborate on exciting Projects and Hackathons
  - 💬 Ask me about DSA
