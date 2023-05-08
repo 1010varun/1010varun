@@ -23,7 +23,7 @@
  
 <h3 align="center">Connect with me:</h3>
  <p align="center">
- <a href="https://twitter.com/varunag979311" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="varunag979311" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/1010varun_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="varunag979311" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/varun-agarwal-b91518226/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="varun-agarwal-b91518226" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://instagram.com/_agarwal_varun_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_agarwal_varun_" height="50" width="50" /></a>
  </p>
