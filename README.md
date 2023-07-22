@@ -1,7 +1,7 @@
 
 
  # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
- I am an Undergraduate student studying Computer Science and Engineering, with an expected graduation date in 2025. My current studies include mastering Data Structures and Algorithms, while gaining a comprehensive understanding of computer engineering fundamentals and developing my web development skills using MERN and Django frameworks.
+ I am an Undergraduate student studying Computer Science and Engineering, with an expected graduation date in 2025. My current studies include mastering Data Structures and Algorithms while gaining a comprehensive understanding of computer engineering fundamentals and developing my web development skills using MERN and Django frameworks.
  
  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1010varun&theme=dracula&column=4&margin-w=15&margin-h=15" alt="1010varun" /></a></p>
 
@@ -12,12 +12,11 @@
  
  
  ### Some more about me
- - 🔭 I’m currently working on Web Development using MERN stack and Django.
+ - 🔭 I’m currently working on Full stack development.
  - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
- - 👯 I’m looking to collaborate on exciting Projects and Hackathons
- - 💬 Ask me about DSA
+ - 👯 I’m looking to collaborate on exciting projects and Hackathons
+ - 💬 Ask me about development
  - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/varun-agarwal-b91518226/)
- - ⚡ Fun fact: Tabs >>>>> Spaces
  
  <hr>
  
