@@ -4,11 +4,6 @@
  I am an Undergraduate student studying Computer Science and Engineering, with an expected graduation date in 2025. My current studies include mastering Data Structures and Algorithms while gaining a comprehensive understanding of computer engineering fundamentals and developing my web development skills using MERN and Django frameworks.
  
  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1010varun&theme=dracula&column=4&margin-w=15&margin-h=15" alt="1010varun" /></a></p>
-
-
- <p align="center">
-   <img src="https://github.com/1010varun/1010varun/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
- </p>
  
  
  ### Some more about me
