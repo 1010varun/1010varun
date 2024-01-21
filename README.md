@@ -34,32 +34,17 @@
  
  <hr>
  
- # Github Activity📊:
- 
- <table>
-   <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=1010varun&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1010varun&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-    </tr> 
-    <tr>
-       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=1010varun&theme=tokyonight"  display=block width=100% height=auto alt="3" >          </td>
-   </tr>
- </table>
- 
  # Productivity Stats📈:
  <table>
    <tr>
      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1010varun&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     </tr> 
     <tr>
-       <td>
+       <centre><td>
          <a href="https://github.com/1010varun/github-readme-activity-graph#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=1010varun&theme=react&area=true&hide_border=true#gh-light-mode-only"                width="100%">
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=1010varun&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
          </a>
-         <a href="https://github.com/1010varun/github-readme-activity-graph#gh-dark-mode-only">
-           <img src="https://github-readme-activity-graph.cyclic.app/graph?username=1010varun&theme=dracula&area=true&hide_border=true#gh-dark-mode-only"              width="100%">
-         </a>
-     </td>
+     </td></centre>
    </td>
    </tr>
  </table>
