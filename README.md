@@ -33,9 +33,17 @@
  </a>
  
  <hr>
+
+ <div align="center">
+   
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1010varun&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   
+ </div>
+ 
+ <hr> 
  
  # Productivity Stats📈:
- <table>
+ <table align="center">
    <tr>
      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1010varun&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
     </tr> 
