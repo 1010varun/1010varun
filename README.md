@@ -35,7 +35,7 @@
 
  <div align="center">
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1010varun&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=1010varun&theme=dark&border_radius=10&fire=FF0000)](https://git.io/streak-stats)
    
  </div>
  
