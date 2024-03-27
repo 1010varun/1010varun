@@ -35,7 +35,7 @@
 
  <div align="center">
    
-   [![GitHub Streak](https://streak-stats.demolab.com?user=1010varun&theme=dark&border_radius=10&fire=FF0000)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1010varun&theme=dark" alt="GitHub Streak" /></a>
    
  </div>
  
